@@ -25,3 +25,5 @@ Each topic is organized by **week and exercise number** for better clarity.
 - IntelliJ IDEA (IDE)
 - Git & GitHub (version control)
 - SLF4J + Logback (logging)
+- Spring Boot
+- Spring Framework
