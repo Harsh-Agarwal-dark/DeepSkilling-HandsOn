@@ -27,3 +27,4 @@ Each topic is organized by **week and exercise number** for better clarity.
 - SLF4J + Logback (logging)
 - Spring Boot
 - Spring Framework
+- React Js
